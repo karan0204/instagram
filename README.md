@@ -1,5 +1,3 @@
-package Instagram;
-
 public class login {
         
 	int id = 294;
@@ -16,8 +14,6 @@ public class login {
 
 <br>
  testinstajava
-
-package Instagram;
 
 public class testinstajava {
 
