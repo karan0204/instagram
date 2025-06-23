@@ -15,4 +15,20 @@ public class login {
 }
 
 <br>
-karan
+ testinstajava
+
+package Instagram;
+
+public class testinstajava {
+
+	public static void main(String[] args) {
+		 
+		login var12 = new login();
+		
+		System.out.println(var12.name);
+		System.out.println(var12.pass);
+		System.out.println(var12.id);
+
+	}
+
+}
